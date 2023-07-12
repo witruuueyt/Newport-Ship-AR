@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="-3.7434 -1.6434 -15.2518 18.1881 5.2446 -2.5749" targetId="bd6cd38473c94195bcb55c1dce7bf1b4" name="Wood" pathAuthoring="bd6cd38473c94195bcb55c1dce7bf1b4_authoring.glb" pathOcclusion="bd6cd38473c94195bcb55c1dce7bf1b4_occlusion.3dt" pathNavMesh="bd6cd38473c94195bcb55c1dce7bf1b4_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

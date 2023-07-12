@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="-17.6532 -9.6648 -17.8318 12.6498 4.2033 16.6803" targetId="f6f1df50811940a795fde83b91d55363" name="NewportShipMuseum" pathAuthoring="f6f1df50811940a795fde83b91d55363_authoring.glb" pathOcclusion="f6f1df50811940a795fde83b91d55363_occlusion.3dt" pathNavMesh="f6f1df50811940a795fde83b91d55363_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

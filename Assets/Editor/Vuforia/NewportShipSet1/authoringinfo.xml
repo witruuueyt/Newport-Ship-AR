@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="-6.9416 -2.2361 -13.3637 16.8360 1.8302 4.5835" targetId="7ce68743abb647e18ae7d33cde433f6f" name="NewportShipSet1" pathAuthoring="7ce68743abb647e18ae7d33cde433f6f_authoring.glb" pathOcclusion="7ce68743abb647e18ae7d33cde433f6f_occlusion.3dt" pathNavMesh="7ce68743abb647e18ae7d33cde433f6f_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

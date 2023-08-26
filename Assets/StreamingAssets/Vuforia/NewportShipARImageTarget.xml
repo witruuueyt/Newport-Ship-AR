@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="Set2-4" size="1.000000 0.714286" />
+    <ImageTarget name="Set2-8" size="1.000000 0.714792" />
+    <ImageTarget name="Set2-6" size="1.000000 0.715258" />
     <ImageTarget name="Shipmodel" size="3.500000 2.625000" />
+    <ImageTarget name="ship" size="1.000000 0.750000" />
+    <ImageTarget name="Test" size="1.000000 0.724000" />
+    <ImageTarget name="Set3-10" size="1.000000 0.697998" />
+    <ImageTarget name="Set3-9" size="1.000000 0.696474" />
+    <ImageTarget name="Set3-8" size="1.000000 0.697007" />
+    <ImageTarget name="Set3-7" size="1.000000 0.694514" />
+    <ImageTarget name="Set3-6" size="1.000000 0.702396" />
+    <ImageTarget name="Set3-5" size="1.000000 0.701250" />
+    <ImageTarget name="Set3-4" size="1.000000 0.701380" />
+    <ImageTarget name="Set3-3" size="1.000000 0.694894" />
+    <ImageTarget name="Set3-2" size="1.000000 0.695652" />
+    <ImageTarget name="Set3-1" size="1.000000 0.695306" />
+    <ImageTarget name="Set1-10" size="1.000000 0.742739" />
+    <ImageTarget name="Set1-2" size="1.000000 0.750000" />
+    <ImageTarget name="Set1-1" size="1.000000 0.562500" />
+    <ImageTarget name="Set2-3-1" size="1.000000 0.706973" />
+    <ImageTarget name="Set2-2-1" size="1.000000 0.707249" />
+    <ImageTarget name="Set2-1-1" size="1.000000 0.706653" />
+    <ImageTarget name="Set1-9" size="1.000000 0.703220" />
+    <ImageTarget name="Set1-8" size="1.000000 1.416520" />
+    <ImageTarget name="Set1-7" size="1.000000 0.713775" />
+    <ImageTarget name="Set1-6" size="1.000000 0.702443" />
+    <ImageTarget name="Set1-5-1" size="1.000000 0.750000" />
+    <ImageTarget name="Set1-4" size="1.000000 0.664712" />
+    <ImageTarget name="Set1-3-2" size="1.000000 1.494135" />
+    <ImageTarget name="Set1-3-1" size="1.000000 1.660494" />
   </Tracking>
 </QCARConfig>

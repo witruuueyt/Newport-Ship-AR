@@ -22,7 +22,7 @@
       "url": "https://normcore-registry.normcore.io"
     },
     "com.ptc.vuforia.engine": {
-      "version": "file:com.ptc.vuforia.engine-10.16.5.tgz",
+      "version": "file:com.ptc.vuforia.engine-10.17.4.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {

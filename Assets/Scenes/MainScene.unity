@@ -1378,7 +1378,7 @@ RectTransform:
   m_GameObject: {fileID: 62951755}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.00005722046}
-  m_LocalScale: {x: 0.5515625, y: 0.5515625, z: 0.55156255}
+  m_LocalScale: {x: 1, y: 1, z: 0.55156255}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2142209774}
@@ -2778,7 +2778,7 @@ RectTransform:
   m_GameObject: {fileID: 120176131}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.00005722046}
-  m_LocalScale: {x: 0.5515625, y: 0.5515625, z: 0.55156255}
+  m_LocalScale: {x: 1, y: 1, z: 0.55156255}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1906222088}
@@ -3432,10 +3432,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -3719,7 +3719,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 135.8, y: 301.88}
+  m_AnchoredPosition: {x: 72.3, y: 301.88}
   m_SizeDelta: {x: 472.1, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &150149098
@@ -3742,7 +3742,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Wood Conservation
+  m_text: Ship's Hidden Treasures
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
@@ -5347,11 +5347,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Archaeologists discovered the Newport shipwreck, prompting a passionate
-    local campaign for its preservation, leading to the successful conservation and
-    retrieval of 1700 ship timbers and artifacts with international support.\r\nEnthusiasts'
-    campaign efforts led to the Friends of the Newport Ship formation and a grant
-    of \xA33.5 million from the Welsh Assembly Government, ensuring the ship's conservation. "
+  m_text: David Jordan's three multimedia artworks depict various stages of the Newport
+    Medieval Ship's history, culminating in its towed arrival at the pill before
+    capsizing, generously donated to Newport Museum by the artist.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
@@ -8706,7 +8704,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 30.6, y: 301.88}
+  m_AnchoredPosition: {x: 68.8, y: 301.88}
   m_SizeDelta: {x: 494.9, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &310895696
@@ -8729,7 +8727,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Waterlogged Preservation
+  m_text: Medieval Ship Defenses
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
@@ -11511,10 +11509,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -12358,7 +12356,7 @@ RectTransform:
   m_GameObject: {fileID: 399037405}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.00005722046}
-  m_LocalScale: {x: 0.5515625, y: 0.5515625, z: 0.55156255}
+  m_LocalScale: {x: 1, y: 1, z: 0.55156255}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1219529621}
@@ -13720,7 +13718,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 290.3, y: 301.88}
+  m_AnchoredPosition: {x: 116, y: 301.88}
   m_SizeDelta: {x: 472.1, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &436834468
@@ -13743,7 +13741,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Ship Pumps
+  m_text: Medieval Europe Map
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
@@ -13889,10 +13887,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -14012,10 +14010,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Following timber cleaning, the Newport Ship's comprehensive recording was
-    facilitated using 3D digital point technology, replacing time-consuming hand
-    drawing. "FaroArms," akin to electronic pens, allowed wet and dry tracing of
-    timbers to capture essential features for 3D imaging, revealing shape changes.
+  m_text: Comparison to preserved ships like Vasa and Mary Rose informs Newport Medieval
+    Ship's reconstruction, applying insights from their conservation processes and
+    utilizing depictions due to limited medieval shipbuilding records
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
@@ -16004,7 +16001,7 @@ RectTransform:
   m_GameObject: {fileID: 506656124}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.00005722046}
-  m_LocalScale: {x: 0.5515625, y: 0.5515625, z: 0.55156255}
+  m_LocalScale: {x: 1, y: 1, z: 0.55156255}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 778124835}
@@ -18794,10 +18791,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -20138,7 +20135,7 @@ RectTransform:
   m_GameObject: {fileID: 617647028}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.00005722046}
-  m_LocalScale: {x: 0.5515625, y: 0.5515625, z: 0.55156255}
+  m_LocalScale: {x: 1, y: 1, z: 0.55156255}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1723200629}
@@ -21834,7 +21831,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 30.6, y: 294.9}
+  m_AnchoredPosition: {x: 175, y: 294.9}
   m_SizeDelta: {x: 472.1, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &668790584
@@ -21857,7 +21854,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Rescuing the Newport Ship
+  m_text: Medieval Ship Art
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
@@ -25227,7 +25224,7 @@ RectTransform:
   m_GameObject: {fileID: 747050794}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.00005722046}
-  m_LocalScale: {x: 0.5515625, y: 0.5515625, z: 0.55156255}
+  m_LocalScale: {x: 1, y: 1, z: 0.55156255}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 668790583}
@@ -26423,7 +26420,7 @@ RectTransform:
   m_GameObject: {fileID: 789069163}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.00005722046}
-  m_LocalScale: {x: 0.5515625, y: 0.5515625, z: 0.55156255}
+  m_LocalScale: {x: 1, y: 1, z: 0.55156255}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1825304436}
@@ -26838,7 +26835,7 @@ RectTransform:
   m_GameObject: {fileID: 812180497}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.00005722046}
-  m_LocalScale: {x: 0.5515625, y: 0.5515625, z: 0.55156255}
+  m_LocalScale: {x: 1, y: 1, z: 0.55156255}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 324802499}
@@ -27920,10 +27917,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -28161,9 +28158,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Anne Leaver depicted medieval Newport beautifully, showcasing the Newport
-    Medieval Ship near the castle. \nThe ship's sinking resulted from a failed cradle
-    during its repair, as indicated by the discovered structure beneath the hull."
+  m_text: This depiction features the ship at sail with a visible waterline, highlighting
+    its three masts and sail configurations, adhering to square and fore-and-aft
+    rigging practices.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
@@ -29048,7 +29045,7 @@ RectTransform:
   m_GameObject: {fileID: 908616039}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.00005722046}
-  m_LocalScale: {x: 0.5515625, y: 0.5515625, z: 0.55156255}
+  m_LocalScale: {x: 1, y: 1, z: 0.55156255}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 436834467}
@@ -29169,10 +29166,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -30185,7 +30182,7 @@ RectTransform:
   m_GameObject: {fileID: 940659390}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.00005722046}
-  m_LocalScale: {x: 0.5515625, y: 0.5515625, z: 0.55156255}
+  m_LocalScale: {x: 1, y: 1, z: 0.55156255}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 594609149}
@@ -31311,10 +31308,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -32160,7 +32157,7 @@ RectTransform:
   m_GameObject: {fileID: 1019810510}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.00005722046}
-  m_LocalScale: {x: 0.5515625, y: 0.5515625, z: 0.55156255}
+  m_LocalScale: {x: 1, y: 1, z: 0.55156255}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1323844131}
@@ -34475,9 +34472,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Like all ships, the Newport Medieval Ship required pumps to manage water
-    and stay afloat, evidenced by artifacts and indications of at least three pumps
-    found on site.
+  m_text: This map depicts Europe during the Newport Medieval Ship's era, showcasing
+    its distinct historical landscape. The intricate political dynamics spanned the
+    British Isles, including the War of the Roses, and Mainland Europe.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
@@ -35588,7 +35585,7 @@ RectTransform:
   m_GameObject: {fileID: 1133563853}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.00005722046}
-  m_LocalScale: {x: 0.5515625, y: 0.5515625, z: 0.55156255}
+  m_LocalScale: {x: 1, y: 1, z: 0.55156255}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 474560689}
@@ -37449,10 +37446,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -37552,10 +37549,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -37956,10 +37953,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -38481,7 +38478,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 30.6, y: 301.88}
+  m_AnchoredPosition: {x: 151.2, y: 301.88}
   m_SizeDelta: {x: 472.1, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1239287623
@@ -38504,7 +38501,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Medieval Newport Scene
+  m_text: Sailing Trio Masts
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
@@ -38937,7 +38934,7 @@ RectTransform:
   m_GameObject: {fileID: 1266221751}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.00005722046}
-  m_LocalScale: {x: 0.5515625, y: 0.5515625, z: 0.55156255}
+  m_LocalScale: {x: 1, y: 1, z: 0.55156255}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 180337371}
@@ -39431,10 +39428,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -39492,7 +39489,7 @@ RectTransform:
   m_GameObject: {fileID: 1289516170}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.00005722046}
-  m_LocalScale: {x: 0.5515625, y: 0.5515625, z: 0.55156255}
+  m_LocalScale: {x: 1, y: 1, z: 0.55156255}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 358961067}
@@ -40922,7 +40919,7 @@ RectTransform:
   m_GameObject: {fileID: 1374820451}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.00005722046}
-  m_LocalScale: {x: 0.5515625, y: 0.5515625, z: 0.55156255}
+  m_LocalScale: {x: 1, y: 1, z: 0.55156255}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1239287622}
@@ -41273,10 +41270,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: The Newport Ship's waterlogged wood underwent intricate conservation processes,
-    including chemical treatments to remove iron corrosion and saturation in Polyethylene
-    glycol for strength. Vacuum freeze-drying at the Mary Rose Museum ensured the
-    timbers' stability for eventual reassembly and display.
+  m_text: Numerous artifacts, including a hidden French silver coin in a keel timber,
+    were found alongside Portuguese coins, hinting at Iberian trade. Various shoes,
+    like poulaine shoes, were discovered, their connection to the ship remaining
+    uncertain.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
@@ -41560,7 +41557,7 @@ RectTransform:
   m_GameObject: {fileID: 1391748933}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.00005722046}
-  m_LocalScale: {x: 0.5515625, y: 0.5515625, z: 0.55156255}
+  m_LocalScale: {x: 1, y: 1, z: 0.55156255}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 310895695}
@@ -42819,10 +42816,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: The Newport Ship's timbers were well-preserved after being submerged in
-    water due to their burial in alluvial mud for over 500 years. Keeping them waterlogged
-    prevented potential shrinkage and cracking that could have occurred if they had
-    dried naturally.
+  m_text: During the medieval era, merchant ships faced peril from piracy, with the
+    Newport Medieval Ship employing various defenses against attackers. Stone shot
+    for swivel guns, an archer's wrist guard, a helmet fragment with a lucky inscription,
+    and a ship's knife were among the discovered defensive artifacts.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
@@ -46971,10 +46968,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -49076,7 +49073,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 124.5, y: 301.88}
+  m_AnchoredPosition: {x: 241.2, y: 301.88}
   m_SizeDelta: {x: 472.1, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1723200630
@@ -49099,7 +49096,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Timber Recording
+  m_text: Similar Ships
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
@@ -49245,10 +49242,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -50343,10 +50340,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -51120,10 +51117,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -53586,7 +53583,7 @@ RectTransform:
   m_GameObject: {fileID: 1839547123}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.00005722046}
-  m_LocalScale: {x: 0.5515625, y: 0.5515625, z: 0.55156255}
+  m_LocalScale: {x: 1, y: 1, z: 0.55156255}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 150149097}
@@ -53830,7 +53827,7 @@ RectTransform:
   m_GameObject: {fileID: 1844882399}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.00005722046}
-  m_LocalScale: {x: 0.5515625, y: 0.5515625, z: 0.55156255}
+  m_LocalScale: {x: 1, y: 1, z: 0.55156255}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 751602700}
@@ -55371,10 +55368,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -58251,10 +58248,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -58729,10 +58726,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3

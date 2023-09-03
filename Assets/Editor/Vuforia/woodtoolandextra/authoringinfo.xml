@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="-13.9697 1.4211 15.8460 9.6161 11.4071 56.0762" targetId="586c4ad9ec214b758f9da4c5d002edf3" name="woodtoolandextra" pathAuthoring="586c4ad9ec214b758f9da4c5d002edf3_authoring.glb" pathOcclusion="586c4ad9ec214b758f9da4c5d002edf3_occlusion.3dt" pathNavMesh="586c4ad9ec214b758f9da4c5d002edf3_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="-3.2429 0.6902 27.3552 6.6011 4.7288 42.1359" targetId="26b084b961594d11895fb2614f60d151" name="timberstore" pathAuthoring="26b084b961594d11895fb2614f60d151_authoring.glb" pathOcclusion="26b084b961594d11895fb2614f60d151_occlusion.3dt" pathNavMesh="26b084b961594d11895fb2614f60d151_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

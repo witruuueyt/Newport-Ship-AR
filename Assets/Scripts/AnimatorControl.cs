@@ -25,7 +25,8 @@ public class AnimatorControl : MonoBehaviour
 
     public void StopAnimation()
     {
-        animator.SetBool("Stop", true);
+        animator.SetTrigger("Stop");
+        //animator.SetBool("Stop", true);
         dock.SetActive(true);
         anchor.SetActive(false);
         bluesea.SetActive(true);

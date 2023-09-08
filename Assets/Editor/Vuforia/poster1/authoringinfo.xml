@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="-4.1121 -2.4620 -15.5754 10.9072 3.5993 -2.3164" targetId="99706d4544a0469485587650057d446c" name="poster1" pathAuthoring="99706d4544a0469485587650057d446c_authoring.glb" pathOcclusion="99706d4544a0469485587650057d446c_occlusion.3dt" pathNavMesh="99706d4544a0469485587650057d446c_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

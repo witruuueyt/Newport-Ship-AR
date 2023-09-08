@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="-21.7682 -2.8117 -6.0402 19.7527 2.9620 17.7326" targetId="7fc4444d14be4d55bf33c9f2a46a76f6" name="toolandposter" pathAuthoring="7fc4444d14be4d55bf33c9f2a46a76f6_authoring.glb" pathOcclusion="7fc4444d14be4d55bf33c9f2a46a76f6_occlusion.3dt" pathNavMesh="7fc4444d14be4d55bf33c9f2a46a76f6_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

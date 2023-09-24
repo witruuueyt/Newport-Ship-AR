@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="-2.6655 -2.3671 -4.1448 1.7356 0.2871 6.1169" targetId="fb43e057ba1840029cb503500b25a146" name="ship" pathAuthoring="fb43e057ba1840029cb503500b25a146_authoring.glb" pathOcclusion="fb43e057ba1840029cb503500b25a146_occlusion.3dt" pathNavMesh="fb43e057ba1840029cb503500b25a146_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

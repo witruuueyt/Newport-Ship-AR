@@ -2,7 +2,7 @@
 
 **<h2>Project Overview</h2>**
 
-This is a study investigating the feasibility of self-guided AR applications and exploring how AR enhances the visitor experience.
+This is a research investigating the feasibility of self-guided AR applications and exploring how AR enhances the visitor experience.
 The experimental equipment is set to be the Samsung S7+ tablet, and the AR application was developed using Unity platform with Vuforia SDK. The specific versions include Unity 2022.3.4f1 and Vuforia 10.17.4.
 
 Link to youtube:
